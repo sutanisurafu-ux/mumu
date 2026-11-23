@@ -1,0 +1,6 @@
+{
+  "name": "MU: Континент Легенд — Классическая ARPG",
+  "description": "Классическая изометрическая hack-and-slash ARPG в духе MU Online с тремя классами, прокачкой характеристик, сбором экипировки, крафтом в Машине Хаоса и адаптивным мобильным управлением.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
